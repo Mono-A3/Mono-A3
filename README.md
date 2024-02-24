@@ -17,9 +17,9 @@
 ###
 
 <div align="center">
-  <img src="https://www.facebook.com/stiven.araque.9235" height="35" alt="facebook logo"  />
-  <img src="https://www.instagram.com/stiven_araque.3/" height="35" alt="instagram logo"  />
-  <img src="https://www.linkedin.com/in/araque-andres/" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge[https://www.facebook.com/stiven.araque.9235]" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge[https://www.instagram.com/stiven_araque.3/]" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge[https://www.linkedin.com/in/araque-andres/]" height="35" alt="linkedin logo"  />
 </div>
 
 ###
