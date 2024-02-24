@@ -1,6 +1,7 @@
-<h2 align="left">Hi 👋! My name is Andres Araque and I'm a Develop Software, from Colombia</h2>
+<h2 align="left">Hola 👋! Mi nombre es Andres Araque y soy Desarrollador de Software, de Colombia</h2>
 
-###
+## Acerca de mí
+Soy un apasionado del desarrollo web con experiencia en HTML, CSS, JavaScript, PHP y MySQL. Me encanta crear proyectos innovadores y aprender nuevas tecnologías.
 
 <br clear="both">
 
