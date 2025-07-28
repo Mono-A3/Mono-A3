@@ -58,6 +58,10 @@
   <img src="https://skillicons.dev/icons?i=css" height="58" alt="css3 logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=linux" height="58" alt="linux logo"  />
+    <img width="16" />
+  <img src="https://skillicons.dev/icons?i=django" height="58" alt="django logo"  />
+    <img width="16" />
+  <img src="https://skillicons.dev/icons?i=python" height="58" alt="python logo"  />
 </div>
 
 ###
