@@ -1,6 +1,16 @@
+<h1 align="center">👋 Hey there! I'm Andres Araque</h1>
+
 ###
 
-<h1 align="center">Hello 👋! My name is Andres Araque</h1>
+<p align="center">
+  <em>💻 Fullstack Developer | 🚀 Freelancer | 🌱 Lifelong Learner</em>
+</p>
+
+<div align='center'>
+
+![text](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=0c3&center=true&vCenter=true&width=500&lines=Andres+Araque;Fullstack+Developer;Freelancer+|+Cloud+Enthusiast)
+
+</div>
 
 ###
 
@@ -16,73 +26,91 @@
   </a>
 </div>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👨‍💻 About Me
 
-###
+Hi, I'm **Andres Stiven Araque** from Colombia 🇨🇴
 
-<p align="left">Hi, I'm Andres Stiven Araque from Colombia! 🇨🇴<br><br>- 🔭 I'm working as a Software Analyst & Developer at Rappi<br>- 📚 Currently learning backend optimization, cloud technologies, and modern web development<br>- ⚡ In my free time, I'm a passionate self-taught learner, always exploring new technologies</p>
+- 🛠 Fullstack Developer with a passion for **building scalable, fast, and user-focused apps**.
+- 🔭 Currently working as a **Software Analyst & Developer at Rappi**, while taking on **freelance projects** to keep challenging myself.
+- 🌱 Always exploring **backend optimization, cloud architecture, and modern web technologies**.
+- ⚡ Coffee, code, and constant learning – that's my fuel.
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+### 🛠 Tech Stack
 
-###
+#### 🌐 Frontend
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="58" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="58" alt="nodejs logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=astro" height="58" alt="astro logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="58" alt="tailwindcss logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=vite" height="58" alt="vite logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=react" height="58" alt="react logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=git" height="58" alt="git logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="58" alt="firebase logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="58" alt="googlecloud logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="58" alt="mongodb logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="58" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=html" height="58" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=css" height="58" alt="css3 logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=linux" height="58" alt="linux logo"  />
-    <img width="16" />
-  <img src="https://skillicons.dev/icons?i=django" height="58" alt="django logo"  />
-    <img width="16" />
-  <img src="https://skillicons.dev/icons?i=python" height="58" alt="python logo"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,tailwind,vite" height="30" />
+
+#### ⚙️ Backend
+
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,php,bash" height="30" />
+
+#### 🗄️ Bases de Datos
+
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="30" />
+
+#### ☁️ Infraestructura y Hosting
+
+  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify,firebase,gcp,docker,linux,arch" height="30" />
+
+#### 🔧 Control de Versiones
+
+  <img src="https://skillicons.dev/icons?i=git,github" height="30" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 💼 Latest Freelance Projects
 
-###
+<p align="center">
+  <em>Some of my recent freelance works 🚀</em>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.vanstour.com.co/" target="_blank">
+        <img src="https://andresaraque.com/projects/vanstour.webp" width="100%" alt="VansTour Preview"/>
+      </a>
+      <br/>
+      <b>🚙 VansTour</b><br/>
+      <sub>Astro | Tailwind CSS | JavaScript</sub><br/>
+      <a href="https://www.vanstour.com.co/" target="_blank">🔗 Preview</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.marymarsas.com/" target="_blank">
+        <img src="https://andresaraque.com/projects/marymar.webp" width="100%" alt="MaryMar Preview"/>
+      </a>
+      <br/>
+      <b>📦 MaryMar</b><br/>
+      <sub>Astro | TailwindCSS | JavaScript</sub><br/>
+      <a href="https://www.marymarsas.com/" target="_blank">🔗 Preview</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Mono-A3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mono-A3&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mono-A3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mono-A3&theme=github_dark_dimmed&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mono-A3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
-###
+---
 
-<h3 align="left">📝   Random Dev Quote :</h3>
-
-###
+### 💡 Random Dev Quote
 
 <div align="center">
 
@@ -90,16 +118,12 @@
 
 </div>
 
-###
+---
 
-<h3 align="left">👀   Profile Views :</h3>
-
-###
+### 👀 Profile Views
 
 <div align="left">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Mono-A3.Mono-A3&left_color=#24292F&right_color=#539BF5" />
 
 </div>
-
-###
